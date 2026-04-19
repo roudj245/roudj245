@@ -9,7 +9,6 @@
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/Based%20in-Algiers%2C%20Algeria-1a1a2e?style=for-the-badge&labelColor=f5a623&color=232946"/>
 <img src="https://img.shields.io/badge/School-ESI%20Algiers-f5a623?style=for-the-badge&labelColor=1a1a2e&color=f9ca24"/>
 <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Collaborations-2ea44f?style=for-the-badge&labelColor=1a1a2e"/>
 
@@ -25,23 +24,13 @@
 | --- | --- |
 | Name | **Roudj Abdelghani** |
 | Role | **Full Stack Web Developer** |
-| School | **ESI Algiers - 2nd Year Student** |
-| Location | **Algiers, Algeria** |
+| School | **ESI Algiers - 2nd Year Student** | 
 | Current Focus | **Learning LangChain** and **Exploring RAG with Python** |
 | Available For | **Freelance** and **Collaborations** |
 
 </div>
 
-```typescript
-const abdelghani = {
-  name: "Roudj Abdelghani",
-  role: "Full Stack Web Developer",
-  school: "ESI Algiers - 2nd Year Student",
-  location: "Algiers, Algeria",
-  currently: ["Learning LangChain", "Exploring RAG with Python"],
-  openTo: ["Freelance", "Collaborations"],
-};
-```
+
 
 ---
 
@@ -94,24 +83,13 @@ const abdelghani = {
 
 ---
 
-## Currently Learning
-
-<div align="center">
-
-```text
-LangChain   ########------------   40%
-RAG         ########------------   40%
-```
-
-</div>
-
 ---
 
 ## Get In Touch
 
 <div align="center">
 
-<a href="mailto:roudj245@gmail.com">
+<a href="mailto:oa_roudj@esi.dz">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/roudj245">
