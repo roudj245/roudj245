@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96c4c,50:f5a623,100:f9ca24&height=220&section=header&text=Roudj%20Abdelghani&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5A623&center=true&vCenter=true&width=760&lines=2nd+Year+Student+%40+ESI+Algiers;Full+Stack+Web+Developer;Next.js+%7C+FastAPI+%7C+TypeScript;Currently+learning+LangChain+%26+RAG;Open+to+Freelance+%26+Collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5A623&center=true&vCenter=true&width=760&lines=2nd+Year+Student+at+ESI+Algiers;Full+Stack+Web+Developer;Next.js+%7C+FastAPI+%7C+TypeScript;Currently+learning+LangChain+%26+RAG;Open+to+Freelance+%26+Collaborations" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -57,7 +57,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ### Other Languages
