@@ -1,36 +1,31 @@
+<!-- HERO ANIMATED SVG BANNER -->
 <div align="center">
+
+<picture>
+  <img src="https://raw.githubusercontent.com/roudj245/roudj245/main/hero.svg" width="100%" alt="Roudj Abdelghani" />
+</picture>
+
+<!-- If hero.svg is not set up yet, use this fallback animated banner: -->
+<!--
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:042c53,50:0c447c,100:185fa5&height=200&text=Roudj%20Abdelghani&fontSize=46&fontColor=85b7eb&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20ESI%20Algiers%20%7C%20AI%20Explorer&descSize=15&descAlignY=68&descColor=378add&animation=blinking" width="100%"/>
+-->
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              ROUDJ ABDELGHANI                                ║
-║              Full Stack Developer  ·  ESI Algiers            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=1000&color=4A90D9&center=true&vCenter=true&multiline=false&width=620&lines=Next.js+·+FastAPI+·+TypeScript+·+Python;Building+AI-powered+web+apps+%F0%9F%A4%96;Exploring+LangChain+%26+RAG+Pipelines+%F0%9F%94%8D;2nd+Year+%40+ESI+Algiers+%F0%9F%87%A9%F0%9F%87%BF+·+Open+to+Freelance)](https://github.com/roudj245)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=4A90D9&center=true&vCenter=true&width=600&lines=Next.js+%7C+FastAPI+%7C+TypeScript;Exploring+LangChain+%26+RAG+Pipelines;2nd+Year+%40+ESI+Algiers+%F0%9F%87%A9%F0%9F%87%BF;Open+to+Freelance+%26+Collaborations" alt="Typing SVG" />
+<br/>
+
+<!-- ANIMATED BADGES ROW -->
+<a href="mailto:oa_roudj@esi.dz">
+  <img src="https://img.shields.io/badge/✉%20oa__roudj%40esi.dz-042c53?style=for-the-badge&labelColor=042c53&color=0c447c&logoColor=4A90D9" />
 </a>
+<a href="https://github.com/roudj245">
+  <img src="https://img.shields.io/badge/◈%20roudj245-042c53?style=for-the-badge&labelColor=042c53&color=0c447c" />
+</a>
+<img src="https://img.shields.io/badge/◉%20Available%20for%20Freelance-042c53?style=for-the-badge&labelColor=042c53&color=185fa5" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=roudj245.roudj245&left_color=042c53&right_color=185fa5&left_text=👁%20Views" />
 
-<br/>
-<br/>
-
-[![Email](https://img.shields.io/badge/──────────%20oa__roudj%40esi.dz%20──────────-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)](mailto:oa_roudj@esi.dz)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/%20-%20-0d1117?style=for-the-badge" width="1"/>
-
-  [![Email](https://img.shields.io/badge/Email-1a3a5c?style=flat-square&logo=gmail&logoColor=4A90D9)](mailto:oa_roudj@esi.dz)
-  [![GitHub](https://img.shields.io/badge/GitHub-1a3a5c?style=flat-square&logo=github&logoColor=4A90D9)](https://github.com/roudj245)
-  ![Location](https://img.shields.io/badge/Algeria-1a3a5c?style=flat-square&logoColor=4A90D9)
-  ![Status](https://img.shields.io/badge/Open%20to%20Freelance-1a3a5c?style=flat-square&logoColor=4A90D9)
 </div>
 
 <br/>
@@ -39,11 +34,40 @@
 
 <br/>
 
-## `01` &nbsp; About
+<!-- ░░░ SECTION 01 — ABOUT ░░░ -->
 
-> 2nd year CS student at **ESI Algiers**, building modern full-stack web applications
-> and currently exploring the world of **LangChain**, **RAG pipelines**, and AI-powered products.
-> Available for freelance work and open-source collaborations.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1&pause=999999&color=185FA5&center=false&vCenter=true&width=300&lines=▸+01+/+ABOUT+ME" alt="About"/>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%">
+
+```ts
+const roudj: Developer = {
+  name     : "Roudj Abdelghani",
+  role     : "Full Stack Web Developer",
+  school   : "ESI Algiers — 2nd Year",
+  location : "Algeria 🇩🇿",
+  focus    : [
+    "LangChain",
+    "RAG with Python",
+    "AI-powered products",
+  ],
+  open_to  : ["Freelance", "Collaboration"],
+  motto    : "Ship fast. Learn faster.",
+};
+```
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roudj245&layout=donut-vertical&hide_border=true&bg_color=042c53&title_color=4A90D9&text_color=85b7eb&custom_title=Languages" height="200"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -51,64 +75,34 @@
 
 <br/>
 
-## `02` &nbsp; Tech Stack
+<!-- ░░░ SECTION 02 — TECH STACK ░░░ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1&pause=999999&color=185FA5&center=false&vCenter=true&width=300&lines=▸+02+/+TECH+STACK" alt="Stack"/>
 
 <br/>
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-0d2137?style=flat-square&logo=nextdotjs&logoColor=4A90D9)
-![React](https://img.shields.io/badge/React-0d2137?style=flat-square&logo=react&logoColor=4A90D9)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d2137?style=flat-square&logo=typescript&logoColor=4A90D9)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d2137?style=flat-square&logo=javascript&logoColor=4A90D9)
-![HTML5](https://img.shields.io/badge/HTML5-0d2137?style=flat-square&logo=html5&logoColor=4A90D9)
-![CSS3](https://img.shields.io/badge/CSS3-0d2137?style=flat-square&logo=css3&logoColor=4A90D9)
-
-<br/>
-
-**Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0d2137?style=flat-square&logo=fastapi&logoColor=4A90D9)
-![Node.js](https://img.shields.io/badge/Node.js-0d2137?style=flat-square&logo=nodedotjs&logoColor=4A90D9)
-![Express.js](https://img.shields.io/badge/Express.js-0d2137?style=flat-square&logo=express&logoColor=4A90D9)
-
-<br/>
-
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-0d2137?style=flat-square&logo=python&logoColor=4A90D9)
-![LangChain](https://img.shields.io/badge/LangChain-0d2137?style=flat-square&logo=langchain&logoColor=4A90D9)
-
-<br/>
-
-**Other**
-
-![Java](https://img.shields.io/badge/Java-0d2137?style=flat-square&logo=openjdk&logoColor=4A90D9)
-![C](https://img.shields.io/badge/C-0d2137?style=flat-square&logo=c&logoColor=4A90D9)
-
-<br/>
-
----
-
-<br/>
-
-## `03` &nbsp; GitHub Stats
 
 <div align="center">
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=roudj245&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4A90D9&icon_color=4A90D9&text_color=c9d1d9&ring_color=4A90D9&count_private=true&custom_title=Stats" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roudj245&layout=compact&hide_border=true&bg_color=0d1117&title_color=4A90D9&text_color=c9d1d9&custom_title=Top+Languages" height="160"/>
+<!-- ANIMATED SKILL BARS via SVG -->
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css&theme=dark&perline=6" />
+<br/><sub><b>Frontend</b></sub>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roudj245&hide_border=true&background=0d1117&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&sideLabels=c9d1d9&dates=555e6b&stroke=1a3a5c" width="60%"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark&perline=6" />
+<br/><sub><b>Backend</b></sub>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roudj245&bg_color=0d1117&color=4A90D9&line=4A90D9&point=ffffff&area=true&area_color=1a3a5c&hide_border=true&custom_title=Contribution+Graph" width="95%"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark&perline=6" />
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-042c53?style=flat-square&logo=langchain&logoColor=4A90D9&labelColor=042c53" height="48"/>
+<br/><sub><b>AI / ML</b></sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=java,c&theme=dark&perline=6" />
+<br/><sub><b>Other Languages</b></sub>
 
 </div>
 
@@ -118,54 +112,107 @@
 
 <br/>
 
-## `04` &nbsp; Currently Learning
+<!-- ░░░ SECTION 03 — STATS ░░░ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1&pause=999999&color=185FA5&center=false&vCenter=true&width=300&lines=▸+03+/+GITHUB+STATS" alt="Stats"/>
 
 <br/>
-
-```yaml
-focus:
-  - topic:    LangChain Fundamentals
-    progress: ████████░░  80%
-
-  - topic:    RAG Pipelines with Python
-    progress: ██████░░░░  60%
-
-  - topic:    Vector Databases
-    progress: ████░░░░░░  40%
-
-  - topic:    Prompt Engineering
-    progress: ███████░░░  75%
-```
-
-<br/>
-
----
-
-<br/>
-
-## `05` &nbsp; Contact
-
-<br/>
-
-```
-  Email   →  oa_roudj@esi.dz
-  GitHub  →  github.com/roudj245
-  Status  →  Available for freelance and collaborations
-```
-
-<br/>
-
----
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=roudj245&show_icons=true&hide_border=true&bg_color=042c53&title_color=4A90D9&icon_color=378add&text_color=85b7eb&ring_color=185fa5&count_private=true&custom_title=GitHub+Overview" height="175"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roudj245&hide_border=true&background=042c53&ring=4A90D9&fire=378add&currStreakLabel=4A90D9&sideLabels=85b7eb&dates=4a6f8a&stroke=0c447c&currStreakNum=ffffff&sideNums=85b7eb" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roudj245&bg_color=042c53&color=4A90D9&line=378add&point=85b7eb&area=true&area_color=0c447c&hide_border=true&custom_title=Contribution+Activity&title_color=4A90D9" width="96%"/>
+
+</div>
+
 <br/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=roudj245.roudj245&left_color=0d2137&right_color=1a3a5c&left_text=Profile+Views&labelColor=0d2137)
+---
 
 <br/>
+
+<!-- ░░░ SECTION 04 — LEARNING ░░░ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1&pause=999999&color=185FA5&center=false&vCenter=true&width=360&lines=▸+04+/+CURRENTLY+LEARNING" alt="Learning"/>
+
+<br/>
+
+<div align="center">
+
+| &nbsp; | Topic | Stack | Progress |
+|:---:|---|---|---|
+| 🔷 | **LangChain Fundamentals** | Python · LangChain | `████████░░` 80% |
+| 🔷 | **RAG Pipelines** | Python · ChromaDB · FAISS | `██████░░░░` 60% |
+| 🔷 | **Vector Databases** | Pinecone · Chroma | `████░░░░░░` 40% |
+| 🔷 | **Prompt Engineering** | LLMs · Claude · GPT | `███████░░░` 75% |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ░░░ SECTION 05 — TROPHIES ░░░ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1&pause=999999&color=185FA5&center=false&vCenter=true&width=300&lines=▸+05+/+TROPHIES" alt="Trophies"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=roudj245&theme=onestar&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="96%"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ░░░ SECTION 06 — CONTACT ░░░ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1&pause=999999&color=185FA5&center=false&vCenter=true&width=300&lines=▸+06+/+CONTACT" alt="Contact"/>
+
+<br/>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   ✉   oa_roudj@esi.dz                                  │
+│   ◈   github.com/roudj245                               │
+│   ◉   Open to Freelance & Collaborations               │
+│   ◎   Algeria — ESI Algiers                             │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Send%20a%20Message-042c53?style=for-the-badge&labelColor=042c53&color=185fa5)](mailto:oa_roudj@esi.dz)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/View%20Profile-042c53?style=for-the-badge&labelColor=042c53&color=185fa5)](https://github.com/roudj245)
+
 <br/>
 
 *"First, solve the problem. Then, write the code."*
 
 <br/>
+
+</div>
+
+---
+
+<!-- FOOTER ANIMATION -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4000&pause=500&color=0c447c&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+✦;Let's+build+something+great+together+✦;Always+open+to+new+ideas+✦" alt="Footer" />
 </div>
