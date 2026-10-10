@@ -24,7 +24,7 @@
 | --- | --- |
 | Name | **Roudj Abdelghani** |
 | Role | **Full Stack Web Developer** |
-| School | **ESI Algiers - 2nd Year Student** | 
+| School | **ESI Algiers - 3rd Year Student** | 
 | Current Focus | **Learning LangChain** and **Exploring RAG with Python** |
 | Available For | **Freelance** and **Collaborations** |
 
